@@ -1,4 +1,4 @@
-# Timetracker
+# ToDo App with Timetracker
 This application uses the REST API.
 
 The application is used to manage a list of tasks, record operations to be performed within a given task, and the time spent by the user carrying out each of them.
